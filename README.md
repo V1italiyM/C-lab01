@@ -25,7 +25,7 @@
 Напишите программу, которая выводит на экран название и периметр многоугольника. Покройте тестами методы класса Figure.
 
 ## Код задания № 1
-    //
+  
     Console.WriteLine("\t \t Минимальные и максимальные значения предопределенных типов данных CTS:");
     Console.WriteLine("=========================================================");
     
@@ -68,9 +68,9 @@
     Console.WriteLine("Тип значений null:");
     Console.WriteLine($"Nullable<T>: null");
     Console.WriteLine("=========================================================");
-    //
+    
 ## Код задания № 2
-    //
+    
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -142,9 +142,9 @@
             }
         }
     }
-    //
+    
 ## Тесты для задания № 2
-    //
+    
     using lab01_2;
     
     namespace Lab01_2nd_tests
@@ -176,9 +176,9 @@
     
         }
     }
-    //
+    
 ## Код задания № 3
-    //
+    
     using System;
     using System.Collections.Generic;
     using System.Linq;
@@ -321,9 +321,9 @@
             }
         }
     }
-    //
+    
 ## Тесты для задания № 3
-    //
+    
     using NUnit.Framework;
     using lab01_3;
     
@@ -409,5 +409,5 @@
             }
         }
     }
-    //
+    
 C# lab01
